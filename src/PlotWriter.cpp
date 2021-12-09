@@ -1,5 +1,5 @@
 #include "PlotWriter.h"
-#include "ChiaConsts.h"
+#include "SkynetConsts.h"
 #include "SysHost.h"
 #include "Config.h"
 

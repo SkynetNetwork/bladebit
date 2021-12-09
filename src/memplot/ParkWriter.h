@@ -1,6 +1,6 @@
 #pragma once
 #include "memplot/CTables.h"
-#include "ChiaConsts.h"
+#include "SkynetConsts.h"
 #include "threading/ThreadPool.h"
 
 struct WriteParkJob
